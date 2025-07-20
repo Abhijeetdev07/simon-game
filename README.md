@@ -17,7 +17,7 @@ A web-based implementation of the classic Simon Game using HTML, CSS, and JavaSc
 
 ## Demo
 
-![Simon Game Screenshot](screenshot.png)
+![Simon Game Screenshot](Screenshot.png)
 
 ## Installation
 
