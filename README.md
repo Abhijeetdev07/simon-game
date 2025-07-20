@@ -16,8 +16,7 @@ A web-based implementation of the classic Simon Game using HTML, CSS, and JavaSc
 5. The game ends when you make a mistake.
 
 ## Demo
-
-![Simon Game Screenshot](asset/Screenshot.png)
+<img src="asset/Screenshot.png" alt="Simon Game Screenshot" width="400" height="auto" />
 
 ## Installation
 
